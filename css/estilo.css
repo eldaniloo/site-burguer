@@ -1,0 +1,31 @@
+
+nav.nav-cor{
+    background: #e17c1d;
+}
+
+.borda-video{
+    border: 1px solid blue;
+}
+
+.caixa{
+    padding: 60px 0;
+}
+
+.fundo-topo-cardapio{
+    background: #601b1b;
+    padding: 23px;
+}
+
+.fundo-cardapio{
+    background: url(../imgs/cardapio_fundo.png) no-repeat;
+    padding-bottom: 290px;
+}
+
+.rodape{
+    background: url(../imgs/rodape.png);
+}
+
+footer p a{
+    margin: 5px 15px;
+    
+}
